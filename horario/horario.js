@@ -46,9 +46,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const pdfUrls = {
         'automotriz': {
             'matutino': {
-                1: '../horario/pdf/1A MAutomotriz.pdf',
-                2: '../horario/pdf/.pdf',
-                3: '../horario/pdf/.pdf'
+                1: 'horario/pdf/1A MAutomotriz.pdf',
+                2: 'horario/pdf/.pdf',
+                3: 'horario/pdf/.pdf'
             },
             'vespertino': {
                 1: 'pdf/automotriz_vespertino_grupo1.pdf',
