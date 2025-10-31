@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const pdfUrls = {
         'automotriz': {
             'matutino': {
-                1: 'horario/pdf/1A MAutomotriz.pdf',
+                1: '../horario/pdf/1A MAutomotriz.pdf',
                 2: 'horario/pdf/.pdf',
                 3: 'horario/pdf/.pdf'
             },
